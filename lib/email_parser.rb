@@ -18,8 +18,7 @@ class EmailAddressParser
   
   def parse 
   
-    @parser
-    binding.pry 
+    @parser.uniq 
     
   
   end 
