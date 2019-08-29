@@ -19,7 +19,7 @@ class EmailAddressParser
   def parse 
   
     @parser
-    
+    binding.pry 
     
   
   end 
