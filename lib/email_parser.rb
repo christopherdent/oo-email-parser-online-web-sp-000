@@ -20,7 +20,7 @@ class EmailAddressParser
   
     @parser
     
-    @parser.uniq!
+    
   
   end 
   
